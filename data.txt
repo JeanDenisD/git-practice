@@ -1,0 +1,3 @@
+Name: Jide
+Age: 35
+Favorite color: green
